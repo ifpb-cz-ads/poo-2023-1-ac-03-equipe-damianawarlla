@@ -1,7 +1,7 @@
 # Atividades de aprendizagem
 
 ### 1. Analise as seguintes declarações de variáveis e assinale (V) para Verdadei-
-ro e (F) para Falso
+### ro e (F) para Falso 
 
 a) ( ) byte x = 300;
 ###
